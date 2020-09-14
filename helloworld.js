@@ -8,7 +8,7 @@ http.createServer(function (request, response) {
    response.writeHead(200, {'Content-Type': 'text/plain'})
 
    // Send the response body as "Week 3 Assignment"
-   response.end('Week 3  Assignment : Update CloudFormation template\n')
+   response.end('Well Come To Week2 Class\n')
 }).listen(3333)
 
 // Console will print the message
